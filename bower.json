@@ -1,0 +1,6 @@
+{
+  "name": "ListaTarefas",
+  "dependencies": {
+    "ionic": "3.3.0"
+  }
+}
